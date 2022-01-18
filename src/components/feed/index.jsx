@@ -19,7 +19,7 @@ const posts = [
     data: 'April 7, 2020',
     description: 'Fala pessoal! Qual é o melhor framework',
     hashtags: '#dotnet, #javascript, #reactJs and #developer',
-    image: '../../assets/post1.png'
+    image: 'https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b1/Overhaul_kills_Eri%27s_minder.png/revision/latest?cb=20191109162828'
   },
   {
     id: '1',
@@ -32,7 +32,7 @@ const posts = [
     data: 'April 7, 2020',
     description: 'Fala pessoal! Qual é o melhor framework',
     hashtags: '#dotnet, #javascript, #reactJs and #developer',
-    image: '../../assets/post1.png'
+    image: 'https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b1/Overhaul_kills_Eri%27s_minder.png/revision/latest?cb=20191109162828'
   },
   {
     id: '1',
@@ -45,7 +45,7 @@ const posts = [
     data: 'April 7, 2020',
     description: 'Fala pessoal! Qual é o melhor framework',
     hashtags: '#dotnet, #javascript, #reactJs and #developer',
-    image: '../../assets/post1.png'
+    image: 'https://static.wikia.nocookie.net/bokunoheroacademia/images/b/b1/Overhaul_kills_Eri%27s_minder.png/revision/latest?cb=20191109162828'
   }
 ]
 
